@@ -1,0 +1,11 @@
+numpy=1.21
+scipy=1.6
+scikit-learn=0.24
+pytorch=1.9
+transformers=4.12.5
+pandas
+matplotlib
+seaborn
+tarfile
+requests
+tqdm
